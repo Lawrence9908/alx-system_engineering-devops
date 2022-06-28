@@ -1,2 +1,2 @@
 #!/bin/bash
-la -t1 | head -n 10
+ls -lt --format-single-column | head -10
